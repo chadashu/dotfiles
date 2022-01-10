@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chadyilmaz@protonmail.com
+	name = chad yilmaz
